@@ -30,3 +30,7 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 ## License
 
 This project is licensed under the MIT License - see the **LICENSE.md** file for details.
+
+## Happy Coding! 🎉
+
+Feel free to adjust the project details, descriptions, and links as needed to suit your repository's content.
