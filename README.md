@@ -23,8 +23,10 @@ To run these projects locally:
    npm start
    ```
 
-##Contributing
+## Contributing
+
 Contributions are welcome! If you have suggestions or improvements, feel free to fork this repository, create a feature branch, and submit a pull request.
 
-##License
+## License
+
 This project is licensed under the MIT License - see the LICENSE.md file for details.
